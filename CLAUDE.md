@@ -49,3 +49,57 @@ The `analyze_projects.py` script provides:
 - Material performance vs cost analysis
 - Visualization generation (matplotlib/seaborn)
 - CSV export of detailed analysis results
+
+## Email Correspondence Generation
+
+To generate realistic email correspondence files for project documentation, use the following prompt structure:
+
+```markdown
+Generate a series of email exchanges between [ROLE_1] and [ROLE_2] regarding [TOPIC]. The correspondence should:
+
+1. Follow a chronological sequence with:
+   - Proper email headers (From, To, Subject, Date)
+   - Realistic timestamps
+   - Professional salutations and closings
+   - Clear subject line progression (RE: RE: RE: etc.)
+
+2. Include technical details such as:
+   - Specific measurements and specifications
+   - Cost breakdowns and payment terms
+   - Project timelines and milestones
+   - Technical requirements and standards
+
+3. Maintain professional tone while showing:
+   - Natural negotiation progression
+   - Clear action items and next steps
+   - Proper documentation of decisions
+   - Professional conflict resolution
+
+4. Format each email with:
+   - Clear separation between emails (---)
+   - Proper indentation for lists and sections
+   - Consistent formatting for numbers and dates
+   - Professional signature blocks
+
+Example prompt:
+"Generate email correspondence between a project manager and client account manager regarding project billing and deliverables. Include detailed payment schedules, deliverable acceptance criteria, and budget tracking requirements. The correspondence should show a natural progression from initial proposal to final agreement."
+
+Key elements to include:
+- Project-specific details (numbers, dates, costs)
+- Industry-standard terminology
+- Realistic negotiation points
+- Clear documentation requirements
+- Professional formatting and structure
+
+File naming convention:
+- Use descriptive names: [topic]_correspondence.txt
+- Place in appropriate project subdirectory
+- Maintain consistent formatting across all correspondence files
+```
+
+This prompt structure ensures:
+1. Consistent formatting across all correspondence
+2. Realistic technical and business details
+3. Natural progression of discussions
+4. Professional tone and structure
+5. Proper documentation of decisions and agreements
