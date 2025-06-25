@@ -50,6 +50,107 @@ The `analyze_projects.py` script provides:
 - Visualization generation (matplotlib/seaborn)
 - CSV export of detailed analysis results
 
+## Comprehensive Project Folder Structure Generation
+
+To create a complete project folder structure for engineering software development and consulting business management, use the following prompt structure:
+
+```markdown
+Create a comprehensive folder structure for [PROJECT_NAME] that includes common engineering software development and consulting business folders. Generate detailed sample documents within each folder that represent appropriate file contents for a professional project.
+
+### Required Folder Structure:
+
+1. **Project Management**
+   - Project charter with objectives, scope, stakeholders, success criteria
+   - Detailed project schedule with phases, milestones, resource allocation
+   - Risk register with risk assessment, mitigation strategies, contingency plans
+
+2. **Technical Documentation**
+   - Software requirements specification (functional/non-functional requirements)
+   - System architecture document (microservices, technology stack, data flow)
+   - API documentation and integration specifications
+
+3. **Software Development**
+   - Source code modules with industry-standard implementations
+   - Comprehensive unit tests with test cases and validation
+   - Development guidelines and coding standards
+
+4. **Quality Assurance**
+   - QA test plan with multi-level testing strategy
+   - Test cases, procedures, and validation requirements
+   - Performance and security testing protocols
+
+5. **Client Communication**
+   - Business proposals with ROI analysis and competitive positioning
+   - Contract templates and negotiation documents
+   - Client presentation materials and case studies
+
+6. **Regulatory Compliance**
+   - Industry standards compliance documentation (ASTM, ISO, etc.)
+   - Validation procedures and certification requirements
+   - Audit trails and compliance reporting
+
+7. **Team Resources**
+   - Training materials and onboarding procedures
+   - Standard operating procedures and best practices
+   - Knowledge base and troubleshooting guides
+
+8. **Financial Management**
+   - Project financial analysis with investment breakdown
+   - Revenue projections and ROI calculations
+   - Budget tracking and cost management procedures
+
+9. **Marketing & Business Development**
+   - Marketing strategy with target market analysis
+   - Competitive analysis and positioning strategy
+   - Go-to-market plan and customer acquisition strategy
+
+10. **Archives**
+    - Historical project documents and lessons learned
+    - Version control and change management
+    - Reference materials and documentation
+
+### Document Requirements:
+
+Each document should include:
+- Professional formatting with proper headers and structure
+- Realistic technical and business content
+- Industry-standard terminology and procedures
+- Comprehensive details appropriate for the document type
+- Professional tone and presentation quality
+
+### Example Prompt:
+"Create a comprehensive folder structure for an acoustic design software development project. Include detailed sample documents for project management, technical documentation, software development, quality assurance, client communication, regulatory compliance, team resources, financial management, marketing strategy, and archives. All documents should reflect professional engineering software development and consulting business practices."
+
+### Key Elements to Include:
+- **Project Management**: Realistic timelines, budgets, risk assessments
+- **Technical Documentation**: Industry-standard specifications and architecture
+- **Software Development**: Functional code examples with comprehensive testing
+- **Quality Assurance**: Multi-level testing strategies and validation procedures
+- **Business Documents**: Professional proposals, financial analysis, marketing plans
+- **Compliance**: Industry standards and regulatory requirements
+- **Professional Quality**: Consistent formatting, realistic content, industry terminology
+
+### File Naming Conventions:
+- Use descriptive folder names with underscores
+- Create meaningful document names that reflect content
+- Maintain consistent formatting across all documents
+- Include version control and date information where appropriate
+
+### Content Standards:
+- All technical content should follow industry best practices
+- Business documents should include realistic financial projections
+- Code examples should be functional and well-documented
+- Professional formatting and consistent structure throughout
+- Industry-standard terminology and procedures
+```
+
+This prompt structure ensures:
+1. **Comprehensive Coverage**: All essential project management and development areas
+2. **Professional Quality**: Industry-standard documents and procedures
+3. **Realistic Content**: Appropriate technical and business details
+4. **Consistent Structure**: Organized folder hierarchy and document formatting
+5. **Practical Value**: Documents that can be used for actual project execution
+
 ## Email Correspondence Generation
 
 To generate realistic email correspondence files for project documentation, use the following prompt structure:
