@@ -43,6 +43,7 @@ ENV/
 *.sqlite3
 *.sqlite
 /Project_1_Acoustic_Design
+/Project_11_Data_Center_Acoustic_Mitigation
 
 
 # Logs
