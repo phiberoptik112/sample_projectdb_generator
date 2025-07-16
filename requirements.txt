@@ -1,7 +1,5 @@
 pandas>=1.5.0
 numpy>=1.21.0
-sqlite3
-pathlib
 matplotlib>=3.5.0
 seaborn>=0.11.0
 python-dateutil>=2.8.2  # For datetime handling in migrations 
